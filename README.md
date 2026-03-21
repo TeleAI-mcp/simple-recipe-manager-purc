@@ -1,2 +1,3 @@
-# simple-recipe-manager-purc
+# Simple Recipe Manager Purc
+
 A recipe management application for modern development workflows.
